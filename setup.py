@@ -89,7 +89,7 @@ setup(name='PyBluez',
       url="http://pybluez.github.io/",
       ext_modules=ext_modules,
       packages=packages,
-      python_requires=">=3.7",
+      python_requires=">=3.5",
 # for the python cheese shop
       classifiers=['Development Status :: 4 - Beta',
                    'License :: OSI Approved :: GNU General Public License (GPL)',
